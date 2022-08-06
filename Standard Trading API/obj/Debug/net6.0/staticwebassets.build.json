@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "e0swBUZ1s9OniYKW7VuX7jphFxRWU6u/qpH6o33kBOM=",
+  "Source": "Standard Trading API",
+  "BasePath": "_content/Standard Trading API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Standard Trading API\\wwwroot",
+      "Source": "Standard Trading API",
+      "ContentRoot": "E:\\SoftLink\\Web Applictions\\Standard Trading API\\Standard Trading API\\Standard Trading API\\wwwroot\\",
+      "BasePath": "_content/Standard Trading API",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\SoftLink\\Web Applictions\\Standard Trading API\\Standard Trading API\\Standard Trading API\\wwwroot\\UserPhoto\\6ce5ec7a747e3ce970cb8e1023bdb4aa (1).jpg",
+      "SourceId": "Standard Trading API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\SoftLink\\Web Applictions\\Standard Trading API\\Standard Trading API\\Standard Trading API\\wwwroot\\",
+      "BasePath": "_content/Standard Trading API",
+      "RelativePath": "UserPhoto/6ce5ec7a747e3ce970cb8e1023bdb4aa (1).jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\UserPhoto\\6ce5ec7a747e3ce970cb8e1023bdb4aa (1).jpg"
+    },
+    {
+      "Identity": "E:\\SoftLink\\Web Applictions\\Standard Trading API\\Standard Trading API\\Standard Trading API\\wwwroot\\UserPhoto\\ice_screenshot_20210828-125449.png",
+      "SourceId": "Standard Trading API",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\SoftLink\\Web Applictions\\Standard Trading API\\Standard Trading API\\Standard Trading API\\wwwroot\\",
+      "BasePath": "_content/Standard Trading API",
+      "RelativePath": "UserPhoto/ice_screenshot_20210828-125449.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\UserPhoto\\ice_screenshot_20210828-125449.png"
+    }
+  ]
+}

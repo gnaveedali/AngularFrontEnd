@@ -1,0 +1,100 @@
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\appsettings.Development.json
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\appsettings.json
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\Standard Trading API.exe
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\Standard Trading API.deps.json
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\Standard Trading API.runtimeconfig.json
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\Standard Trading API.dll
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\Standard Trading API.pdb
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\System.Web.Http.dll
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\ExpressionParser.dll
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\System.Data.SqlClient.dll
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\obj\Debug\net6.0\Standard Trading API.csproj.AssemblyReference.cache
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\obj\Debug\net6.0\Standard Trading API.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\obj\Debug\net6.0\Standard Trading API.AssemblyInfoInputs.cache
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\obj\Debug\net6.0\Standard Trading API.AssemblyInfo.cs
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\obj\Debug\net6.0\Standard Trading API.csproj.CoreCompileInputs.cache
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\obj\Debug\net6.0\Standard Trading API.MvcApplicationPartsAssemblyInfo.cs
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\obj\Debug\net6.0\Standard Trading API.MvcApplicationPartsAssemblyInfo.cache
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\obj\Debug\net6.0\staticwebassets.build.json
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\obj\Debug\net6.0\staticwebassets.development.json
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\obj\Debug\net6.0\scopedcss\bundle\Standard Trading API.styles.css
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\obj\Debug\net6.0\Standard Trading API.csproj.CopyComplete
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\obj\Debug\net6.0\Standard Trading API.dll
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\obj\Debug\net6.0\refint\Standard Trading API.dll
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\obj\Debug\net6.0\Standard Trading API.pdb
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\obj\Debug\net6.0\Standard Trading API.genruntimeconfig.cache
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\obj\Debug\net6.0\ref\Standard Trading API.dll
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\Data Access Layer.dll
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\Data Access Layer.pdb
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\Standard Trading API.staticwebassets.runtime.json
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\Neodynamic.SDK.WebClientPrint.dll
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\appsettings.Development.json
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\appsettings.json
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\Standard Trading API.staticwebassets.runtime.json
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\Standard Trading API.exe
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\Standard Trading API.deps.json
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\Standard Trading API.runtimeconfig.json
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\Standard Trading API.dll
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\Standard Trading API.pdb
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\System.Net.Http.Formatting.dll
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\System.Web.Http.dll
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\Neodynamic.SDK.WebClientPrint.dll
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\BouncyCastle.Crypto.dll
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\ExpressionParser.dll
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\System.Data.SqlClient.dll
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\Data Access Layer.dll
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\bin\Debug\net6.0\Data Access Layer.pdb
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\obj\Debug\net6.0\Standard Trading API.csproj.AssemblyReference.cache
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\obj\Debug\net6.0\Standard Trading API.GeneratedMSBuildEditorConfig.editorconfig
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\obj\Debug\net6.0\Standard Trading API.AssemblyInfoInputs.cache
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\obj\Debug\net6.0\Standard Trading API.AssemblyInfo.cs
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\obj\Debug\net6.0\Standard Trading API.csproj.CoreCompileInputs.cache
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\obj\Debug\net6.0\Standard Trading API.MvcApplicationPartsAssemblyInfo.cs
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\obj\Debug\net6.0\Standard Trading API.MvcApplicationPartsAssemblyInfo.cache
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\obj\Debug\net6.0\staticwebassets.build.json
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\obj\Debug\net6.0\staticwebassets.development.json
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\obj\Debug\net6.0\scopedcss\bundle\Standard Trading API.styles.css
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\obj\Debug\net6.0\Standard Trading API.csproj.CopyComplete
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\obj\Debug\net6.0\Standard Trading API.dll
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\obj\Debug\net6.0\refint\Standard Trading API.dll
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\obj\Debug\net6.0\Standard Trading API.pdb
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\obj\Debug\net6.0\Standard Trading API.genruntimeconfig.cache
+E:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Standard Trading API\obj\Debug\net6.0\ref\Standard Trading API.dll

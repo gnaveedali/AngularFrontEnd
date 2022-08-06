@@ -1,0 +1,12 @@
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Business Access Layer\bin\Debug\net6.0\Business Access Layer.deps.json
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Business Access Layer\bin\Debug\net6.0\Business Access Layer.dll
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Business Access Layer\bin\Debug\net6.0\Business Access Layer.pdb
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Business Access Layer\obj\Debug\net6.0\Business Access Layer.csproj.AssemblyReference.cache
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Business Access Layer\obj\Debug\net6.0\Business Access Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Business Access Layer\obj\Debug\net6.0\Business Access Layer.AssemblyInfoInputs.cache
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Business Access Layer\obj\Debug\net6.0\Business Access Layer.AssemblyInfo.cs
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Business Access Layer\obj\Debug\net6.0\Business Access Layer.csproj.CoreCompileInputs.cache
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Business Access Layer\obj\Debug\net6.0\Business Access Layer.dll
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Business Access Layer\obj\Debug\net6.0\refint\Business Access Layer.dll
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Business Access Layer\obj\Debug\net6.0\Business Access Layer.pdb
+D:\SoftLink\Web Applictions\Standard Trading API\Standard Trading API\Business Access Layer\obj\Debug\net6.0\ref\Business Access Layer.dll
